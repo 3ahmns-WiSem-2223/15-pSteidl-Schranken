@@ -47,12 +47,12 @@ public class Schrake_offne_dich : MonoBehaviour
         }
 
     }
-    public void einsoffen()
+    public void Einsoffen()
     {
         button1 = !button1;
     }
 
-    public void zweioffen()
+    public void Zweioffen()
     {
         button2 = !button2;
     }
