@@ -1,3 +1,3 @@
-## 15-pSteidl-Schranken
+# 15-pSteidl-Schranken
 
-# Wir lerten die operatoren wie && || == und mussten dazu dieses Project bearbeiten
+## Wir lerten die operatoren wie && || == und mussten dazu dieses Project bearbeiten
